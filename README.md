@@ -10,7 +10,7 @@ n-stats package-name
 
 ## Examples
 ```
-n-stats read-this
+n-stats request
 ```
 ## License
 
