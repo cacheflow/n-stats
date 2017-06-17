@@ -1,0 +1,15 @@
+{
+  "name": "package-stats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "commander": "^2.9.0",
+    "prettyjson": "^1.2.1",
+    "request": "^2.81.0"
+  },
+  "bin": {
+    "n-stats": "./index.js"
+  }
+}
