@@ -8,6 +8,10 @@ npm install -g n-stats
 
 n-stats package-name
 
+## Test
+```
+npm test
+```
 ## Examples
 ```
 n-stats request
