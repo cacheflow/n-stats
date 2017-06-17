@@ -2,12 +2,17 @@
   "name": "package-stats",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.1",
     "commander": "^2.9.0",
+    "humanize-number": "^0.0.2",
     "prettyjson": "^1.2.1",
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
   },
   "bin": {
     "n-stats": "./index.js"
